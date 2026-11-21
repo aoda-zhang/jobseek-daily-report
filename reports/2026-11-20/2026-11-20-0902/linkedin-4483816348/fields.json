@@ -1,55 +1,13 @@
 {
-  "fields": [
-    {
-      "label": "Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Phone number",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Resume",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "LinkedIn",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Website or portfolio",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Location",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "When can you start a new role",
-      "type": "date",
-      "required": true
-    },
-    {
-      "label": "Willing to work from required location?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Additional information",
-      "type": "textarea",
-      "required": false
-    }
-  ],
+  "name": "",
+  "email": "zhangqi20031994@gmail.com",
+  "phone_number": "+86 191 0263 2826",
+  "resume": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "linkedin": "https://www.linkedin.com/in/aodazhang",
+  "website_or_portfolio": "Chengdu, China",
+  "location": "Chengdu, China",
+  "when_can_you_start_a_new_role": "",
+  "willing_to_work_from_required_location": "Chengdu, China",
+  "additional_information": "",
   "note": "blocked: 浏览器连接中断"
 }

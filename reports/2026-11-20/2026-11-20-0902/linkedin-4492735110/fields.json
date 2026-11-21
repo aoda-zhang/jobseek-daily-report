@@ -1,75 +1,17 @@
 {
-  "fields": [
-    {
-      "label": "Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Phone Number",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Resume",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "When could you join us?",
-      "type": "date",
-      "required": true
-    },
-    {
-      "label": "Where are you currently located?",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Willing to relocate to Berlin?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Need visa sponsorship?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Linkedin",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Portfolio",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Github",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Cover Letter",
-      "type": "file",
-      "required": false
-    },
-    {
-      "label": "Comfortable with office-first?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Data retention consent",
-      "type": "checkbox",
-      "required": false
-    }
-  ],
+  "name": "",
+  "email": "zhangqi20031994@gmail.com",
+  "phone_number": "+86 191 0263 2826",
+  "resume": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "when_could_you_join_us": "",
+  "where_are_you_currently_located": "",
+  "willing_to_relocate_to_berlin": "Yes",
+  "need_visa_sponsorship": "No",
+  "linkedin": "https://www.linkedin.com/in/aodazhang",
+  "portfolio": "Chengdu, China",
+  "github": "https://github.com/aoda-zhang",
+  "cover_letter": "",
+  "comfortable_with_office_first": "Chengdu, China",
+  "data_retention_consent": "",
   "note": "apply DONE"
 }

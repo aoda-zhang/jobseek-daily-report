@@ -1,100 +1,22 @@
 {
-  "fields": [
-    {
-      "label": "Notice period / possible start date",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Where do you reside today?",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Eligible to work in Germany?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Willing to relocate to Berlin?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Gross salary expectations",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Referred by someone at Sandbox?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Why interested in Sandbox / Albion Online?",
-      "type": "textarea",
-      "required": true
-    },
-    {
-      "label": "Years of professional software development",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Years of web UI development",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Frontend technologies familiar with",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Years with Java and Spring Boot",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "English communication skills",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "First name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Last name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Phone",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Upload resume",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "Cover letter",
-      "type": "file",
-      "required": false
-    },
-    {
-      "label": "Privacy / talent-pool consent",
-      "type": "checkbox",
-      "required": false
-    }
-  ],
+  "notice_period_possible_start_date": "January 2027",
+  "where_do_you_reside_today": "",
+  "eligible_to_work_in_germany": "A2 (currently learning)",
+  "willing_to_relocate_to_berlin": "Yes",
+  "gross_salary_expectations": "65,000 EUR gross per year",
+  "referred_by_someone_at_sandbox": "",
+  "why_interested_in_sandbox_albion_online": "",
+  "years_of_professional_software_development": "",
+  "years_of_web_ui_development": "",
+  "frontend_technologies_familiar_with": "",
+  "years_with_java_and_spring_boot": "",
+  "english_communication_skills": "C1",
+  "first_name": "Qi",
+  "last_name": "Zhang",
+  "email": "zhangqi20031994@gmail.com",
+  "phone": "+86 191 0263 2826",
+  "upload_resume": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "cover_letter": "",
+  "privacy_talent_pool_consent": "",
   "note": "apply DONE"
 }

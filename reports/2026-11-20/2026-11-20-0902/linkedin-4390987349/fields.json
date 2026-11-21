@@ -1,70 +1,16 @@
 {
-  "fields": [
-    {
-      "label": "First Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Last Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Country",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "Phone",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Resume/CV",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "LinkedIn Profile",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Website",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Desired salary",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Earliest possible start date",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "How did you hear about us?",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Consent to interview recording (Metaview)",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Open to relocate to Berlin?",
-      "type": "select",
-      "required": true
-    }
-  ],
+  "first_name": "Qi",
+  "last_name": "Zhang",
+  "email": "zhangqi20031994@gmail.com",
+  "country": "China",
+  "phone": "+86 191 0263 2826",
+  "resume_cv": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "linkedin_profile": "https://www.linkedin.com/in/aodazhang",
+  "website": "https://github.com/aoda-zhang",
+  "desired_salary": "65,000 EUR gross per year",
+  "earliest_possible_start_date": "January 2027",
+  "how_did_you_hear_about_us": "LinkedIn",
+  "consent_to_interview_recording_metaview": "",
+  "open_to_relocate_to_berlin": "Yes",
   "note": "apply DONE"
 }

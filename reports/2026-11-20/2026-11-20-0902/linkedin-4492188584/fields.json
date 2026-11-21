@@ -1,60 +1,14 @@
 {
-  "fields": [
-    {
-      "label": "First name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Last name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Confirm your email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "City",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "Country code",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "Phone number",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "LinkedIn",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Website",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Resume",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "Message to the Hiring Team",
-      "type": "textarea",
-      "required": false
-    }
-  ],
+  "first_name": "Qi",
+  "last_name": "Zhang",
+  "email": "zhangqi20031994@gmail.com",
+  "confirm_your_email": "zhangqi20031994@gmail.com",
+  "city": "Chengdu, China",
+  "country_code": "China (+86)",
+  "phone_number": "+86 191 0263 2826",
+  "linkedin": "https://www.linkedin.com/in/aodazhang",
+  "website": "https://github.com/aoda-zhang",
+  "resume": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "message_to_the_hiring_team": "",
   "note": "blocked: 必填 City 不接受配置值"
 }

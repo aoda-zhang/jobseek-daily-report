@@ -1,50 +1,12 @@
 {
-  "fields": [
-    {
-      "label": "First / Last",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Phone",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Location",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Available from",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Salary Expectation",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "是否目前在德国",
-      "type": "select",
-      "required": false
-    },
-    {
-      "label": "CV",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "Other",
-      "type": "file",
-      "required": false
-    }
-  ],
+  "first_last": "",
+  "email": "zhangqi20031994@gmail.com",
+  "phone": "+86 191 0263 2826",
+  "location": "Chengdu, China",
+  "available_from": "January 2027",
+  "salary_expectation": "65,000 EUR gross per year",
+  "field": "",
+  "cv": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "other": "",
   "note": "blocked: Cloudflare Turnstile 安全校验拦截"
 }

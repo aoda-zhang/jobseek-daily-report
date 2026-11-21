@@ -1,55 +1,13 @@
 {
-  "fields": [
-    {
-      "label": "Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Resume",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "Linkedin profile",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Right to work in Berlin?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Project you could present?",
-      "type": "textarea",
-      "required": true
-    },
-    {
-      "label": "Come into Berlin office?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Most important in next role",
-      "type": "textarea",
-      "required": false
-    },
-    {
-      "label": "Salary expectations",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Anything else",
-      "type": "textarea",
-      "required": false
-    }
-  ],
+  "name": "",
+  "email": "zhangqi20031994@gmail.com",
+  "resume": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "linkedin_profile": "https://www.linkedin.com/in/aodazhang",
+  "right_to_work_in_berlin": "Yes, I have a work permit for Germany",
+  "project_you_could_present": "",
+  "come_into_berlin_office": "",
+  "most_important_in_next_role": "Chengdu, China",
+  "salary_expectations": "65,000 EUR gross per year",
+  "anything_else": "",
   "note": "blocked: 浏览器连接中断"
 }

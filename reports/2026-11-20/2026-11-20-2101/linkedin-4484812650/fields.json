@@ -1,60 +1,14 @@
 {
-  "fields": [
-    {
-      "label": "First Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Last Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Country",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "Phone",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Location (City)",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "Resume/CV",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "Cover Letter",
-      "type": "file",
-      "required": false
-    },
-    {
-      "label": "Wolt Recruitment Privacy Statement",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "是否具有德国/芬兰工作权",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "是否为工作国国民",
-      "type": "select",
-      "required": true
-    }
-  ],
+  "first_name": "Qi",
+  "last_name": "Zhang",
+  "email": "zhangqi20031994@gmail.com",
+  "country": "China",
+  "phone": "+86 191 0263 2826",
+  "location_city": "Chengdu, China",
+  "resume_cv": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "cover_letter": "",
+  "wolt_recruitment_privacy_statement": "",
+  "field": "",
+  "field_2": "",
   "note": "apply DONE"
 }

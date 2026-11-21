@@ -1,65 +1,15 @@
 {
-  "fields": [
-    {
-      "label": "Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Resume",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "Location",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "Linkedin Profile",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Annual gross salary expectations (EUR)",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Visa sponsorship",
-      "type": "radio",
-      "required": true
-    },
-    {
-      "label": "Berlin office every weekday?",
-      "type": "Yes/No",
-      "required": true
-    },
-    {
-      "label": "Node.js/Python API for production",
-      "type": "textarea",
-      "required": true
-    },
-    {
-      "label": "AI-powered tool example",
-      "type": "textarea",
-      "required": true
-    },
-    {
-      "label": "How did you hear about us?",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Data retention consent",
-      "type": "checkbox",
-      "required": false
-    }
-  ],
+  "name": "",
+  "email": "zhangqi20031994@gmail.com",
+  "resume": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "location": "Chengdu, China",
+  "linkedin_profile": "https://www.linkedin.com/in/aodazhang",
+  "annual_gross_salary_expectations_eur": "65,000 EUR gross per year",
+  "visa_sponsorship": "No",
+  "berlin_office_every_weekday": "",
+  "node_js_python_api_for_production": "",
+  "ai_powered_tool_example": "",
+  "how_did_you_hear_about_us": "LinkedIn",
+  "data_retention_consent": "",
   "note": "blocked: 浏览器连接中断"
 }

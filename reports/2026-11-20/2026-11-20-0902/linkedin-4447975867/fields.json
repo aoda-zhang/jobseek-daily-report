@@ -1,70 +1,16 @@
 {
-  "fields": [
-    {
-      "label": "Wie haben Sie von uns erfahren?",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Land",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Familienname - Chinesisch",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Vorname - Chinesisch",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Vorname - Westliche Schriftzeichen",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Familienname - Westliche Schriftzeichen",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Adresszeile 1",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Bezirk",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "E-Mail",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Art des Telefongeräts",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Ländervorwahl",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Telefonnummer",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Durchwahl",
-      "type": "text",
-      "required": false
-    }
-  ],
+  "wie_haben_sie_von_uns_erfahren": "",
+  "land": "China",
+  "familienname_chinesisch": "Zhang",
+  "vorname_chinesisch": "Qi",
+  "vorname_westliche_schriftzeichen": "Qi",
+  "familienname_westliche_schriftzeichen": "Zhang",
+  "adresszeile_1": "",
+  "bezirk": "",
+  "e_mail": "",
+  "art_des_telefonger_ts": "+86 191 0263 2826",
+  "l_ndervorwahl": "China (+86)",
+  "telefonnummer": "+86 191 0263 2826",
+  "durchwahl": "",
   "note": "blocked: 浏览器连接中断（仅填第 1 步）"
 }

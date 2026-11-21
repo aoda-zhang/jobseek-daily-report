@@ -1,75 +1,17 @@
 {
-  "fields": [
-    {
-      "label": "First Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Last Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Phone",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Location (City)",
-      "type": "combobox",
-      "required": true
-    },
-    {
-      "label": "Resume/CV",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "Cover Letter",
-      "type": "file",
-      "required": false
-    },
-    {
-      "label": "Staffbase office",
-      "type": "checkbox",
-      "required": true
-    },
-    {
-      "label": "Willing to relocate",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Work permit status in Germany",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Target base salary range",
-      "type": "select",
-      "required": false
-    },
-    {
-      "label": "LinkedIn profile URL",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Candidate Privacy Notice",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Conflicts of interest",
-      "type": "textarea",
-      "required": false
-    }
-  ],
+  "first_name": "Qi",
+  "last_name": "Zhang",
+  "email": "zhangqi20031994@gmail.com",
+  "phone": "+86 191 0263 2826",
+  "location_city": "Chengdu, China",
+  "resume_cv": "Qi_Zhang_Senior_Software_Engineer_CV.pdf",
+  "cover_letter": "",
+  "staffbase_office": "",
+  "willing_to_relocate": "Yes",
+  "work_permit_status_in_germany": "A2 (currently learning)",
+  "target_base_salary_range": "65,000 EUR gross per year",
+  "linkedin_profile_url": "https://www.linkedin.com/in/aodazhang",
+  "candidate_privacy_notice": "",
+  "conflicts_of_interest": "",
   "note": "apply DONE"
 }

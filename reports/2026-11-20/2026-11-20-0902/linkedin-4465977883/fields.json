@@ -1,70 +1,16 @@
 {
-  "fields": [
-    {
-      "label": "First Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Last Name",
-      "type": "text",
-      "required": true
-    },
-    {
-      "label": "Email",
-      "type": "email",
-      "required": true
-    },
-    {
-      "label": "Country Code",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Phone Number",
-      "type": "tel",
-      "required": true
-    },
-    {
-      "label": "Résumé",
-      "type": "file",
-      "required": true
-    },
-    {
-      "label": "LinkedIn Profile",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "How did you hear about this job?",
-      "type": "text",
-      "required": false
-    },
-    {
-      "label": "Earliest possible starting date",
-      "type": "date",
-      "required": true
-    },
-    {
-      "label": "Salary expectations",
-      "type": "number",
-      "required": true
-    },
-    {
-      "label": "Are you employed by any Zalando entities?",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "I identify as",
-      "type": "select",
-      "required": true
-    },
-    {
-      "label": "Sensitive data consent",
-      "type": "checkbox",
-      "required": false
-    }
-  ],
+  "first_name": "Qi",
+  "last_name": "Zhang",
+  "email": "zhangqi20031994@gmail.com",
+  "country_code": "China (+86)",
+  "phone_number": "+86 191 0263 2826",
+  "r_sum": "",
+  "linkedin_profile": "https://www.linkedin.com/in/aodazhang",
+  "how_did_you_hear_about_this_job": "LinkedIn",
+  "earliest_possible_starting_date": "January 2027",
+  "salary_expectations": "65,000 EUR gross per year",
+  "are_you_employed_by_any_zalando_entities": "China",
+  "i_identify_as": "",
+  "sensitive_data_consent": "",
   "note": "apply DONE"
 }
