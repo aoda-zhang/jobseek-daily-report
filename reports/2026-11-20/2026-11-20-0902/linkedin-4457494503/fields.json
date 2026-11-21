@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4457494503",
-  "company": "The Exploration Company",
-  "title": "Software Engineer – Mission Control Software",
-  "source": "LinkedIn",
-  "status": "submitted",
-  "ats": "Ashby",
-  "applyUrl": "https://jobs.ashbyhq.com/the-exploration-company/ea754862-55ec-4677-bd8c-fdc3e9e9b3ea/application",
-  "blocker": "",
-  "coverLetter": "未显示",
   "fields": [
     {
       "label": "Full Name",
@@ -64,5 +55,6 @@
       "type": "checkbox",
       "required": false
     }
-  ]
+  ],
+  "note": "apply DONE"
 }

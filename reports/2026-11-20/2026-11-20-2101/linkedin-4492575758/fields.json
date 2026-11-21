@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4492575758",
-  "company": "ABOUT YOU",
-  "title": "Senior Frontend Engineer (all genders)",
-  "source": "LinkedIn",
-  "status": "inspected",
-  "ats": "SmartRecruiters",
-  "applyUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/ABOUTYOUGmbH/publication/b9d74c0e-3524-4463-b835-6693b5fe76ee",
-  "blocker": "电话区号被 LinkedIn 预填为德国 +49，无法改为中国 +86",
-  "coverLetter": "文字（选填）",
   "fields": [
     {
       "label": "First name",
@@ -64,5 +55,6 @@
       "type": "textarea",
       "required": false
     }
-  ]
+  ],
+  "note": "blocked: 必填电话区号被预填为德国 +49"
 }

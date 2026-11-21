@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4483028585",
-  "company": "NiCE",
-  "title": "Senior AI Software Engineer",
-  "source": "LinkedIn",
-  "status": "inspected",
-  "ats": "Greenhouse",
-  "applyUrl": "https://job-boards.eu.greenhouse.io/nice/jobs/4940747101",
-  "blocker": "必填问题「是否有亲属就职于 NICE」「是否曾就职于 NICE」无配置值",
-  "coverLetter": "未显示",
   "fields": [
     {
       "label": "First Name",
@@ -74,5 +65,6 @@
       "type": "checkbox",
       "required": true
     }
-  ]
+  ],
+  "note": "blocked: 必填问题无配置值（是否有亲属就职于 NICE）"
 }

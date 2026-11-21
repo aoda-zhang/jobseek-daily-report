@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4390987349",
-  "company": "thinkcell",
-  "title": "(Senior) Full Stack Developer - Web (f/m/d)",
-  "source": "LinkedIn",
-  "status": "submitted",
-  "ats": "Greenhouse",
-  "applyUrl": "https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4705307101",
-  "blocker": "",
-  "coverLetter": "未显示",
   "fields": [
     {
       "label": "First Name",
@@ -74,5 +65,6 @@
       "type": "select",
       "required": true
     }
-  ]
+  ],
+  "note": "apply DONE"
 }

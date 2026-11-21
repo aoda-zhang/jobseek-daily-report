@@ -1,12 +1,4 @@
 {
-  "jobId": "linkedin-4491617295",
-  "company": "Kärcher",
-  "title": "Senior Software Engineer - Kärcher Connected Cleaning (m/w/d)",
-  "source": "LinkedIn",
-  "status": "blocked",
-  "ats": "SAP SuccessFactors",
-  "applyUrl": "https://career55.sapsf.eu/careers?company=C0001089410P",
-  "blocker": "需要登录/创建账号后才能继续",
-  "coverLetter": "未读取",
-  "fields": []
+  "fields": [],
+  "note": "blocked: 需登录/创建账号"
 }

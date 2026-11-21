@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4483816348",
-  "company": "Air Apps",
-  "title": "React Engineer",
-  "source": "LinkedIn",
-  "status": "inspected",
-  "ats": "Ashby",
-  "applyUrl": "https://jobs.ashbyhq.com/airapps/64b2a35f-6800-4d9e-9fff-9cd5ad03b261/application",
-  "blocker": "",
-  "coverLetter": "未显示",
   "fields": [
     {
       "label": "Name",
@@ -59,5 +50,6 @@
       "type": "textarea",
       "required": false
     }
-  ]
+  ],
+  "note": "blocked: 浏览器连接中断"
 }

@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4440528243",
-  "company": "Staffbase",
-  "title": "Staff Engineer - Fullstack - Actions",
-  "source": "LinkedIn",
-  "status": "submitted",
-  "ats": "Greenhouse",
-  "applyUrl": "https://job-boards.greenhouse.io/staffbase/jobs/8632485002",
-  "blocker": "",
-  "coverLetter": "选填",
   "fields": [
     {
       "label": "First Name",
@@ -79,5 +70,6 @@
       "type": "textarea",
       "required": false
     }
-  ]
+  ],
+  "note": "apply DONE"
 }

@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4484812650",
-  "company": "Wolt",
-  "title": "Senior Software Engineer (Fullstack) - Merchant EMEA",
-  "source": "LinkedIn",
-  "status": "submitted",
-  "ats": "Greenhouse",
-  "applyUrl": "https://job-boards.greenhouse.io/wolt/jobs/8141574",
-  "blocker": "必填问题「Are you a national of the country where you are applying to work?」无配置值",
-  "coverLetter": "选填",
   "fields": [
     {
       "label": "First Name",
@@ -64,5 +55,6 @@
       "type": "select",
       "required": true
     }
-  ]
+  ],
+  "note": "apply DONE"
 }

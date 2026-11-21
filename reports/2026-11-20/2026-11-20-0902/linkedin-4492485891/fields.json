@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4492485891",
-  "company": "Almedia",
-  "title": "AI Full Stack Engineer",
-  "source": "LinkedIn",
-  "status": "inspected",
-  "ats": "Ashby",
-  "applyUrl": "https://jobs.ashbyhq.com/almedia/13c7df64-04e1-4f15-97a5-74cd14fc9ea7/application",
-  "blocker": "",
-  "coverLetter": "未显示",
   "fields": [
     {
       "label": "Name",
@@ -69,5 +60,6 @@
       "type": "checkbox",
       "required": false
     }
-  ]
+  ],
+  "note": "blocked: 浏览器连接中断"
 }

@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4492735110",
-  "company": "Peec AI",
-  "title": "Senior Frontend Engineer",
-  "source": "LinkedIn",
-  "status": "submitted",
-  "ats": "Ashby",
-  "applyUrl": "https://jobs.ashbyhq.com/peec/6b91aeeb-f051-4f48-8d16-44d3f0a6f186/application",
-  "blocker": "",
-  "coverLetter": "选填",
   "fields": [
     {
       "label": "Name",
@@ -79,5 +70,6 @@
       "type": "checkbox",
       "required": false
     }
-  ]
+  ],
+  "note": "apply DONE"
 }

@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4465977883",
-  "company": "Zalando",
-  "title": "Software Engineer (Kotlin) - Transport Planning Optimization (all genders)",
-  "source": "LinkedIn",
-  "status": "submitted",
-  "ats": "Zalando Careers",
-  "applyUrl": "https://jobs.zalando.com/en/jobs/2723609?gh_src=2104be071",
-  "blocker": "",
-  "coverLetter": "选填",
   "fields": [
     {
       "label": "First Name",
@@ -74,5 +65,6 @@
       "type": "checkbox",
       "required": false
     }
-  ]
+  ],
+  "note": "apply DONE"
 }

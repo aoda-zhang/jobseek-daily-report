@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4447975867",
-  "company": "TeleClinic",
-  "title": "Fullstack Engineer (m/f/d)",
-  "source": "LinkedIn",
-  "status": "inspected",
-  "ats": "Workday",
-  "applyUrl": "https://zrg.wd3.myworkdayjobs.com/de-DE/teleclinic-jobs/job/M%C3%BCnchen/Fullstack-Engineer--m-f-d-_JR04584/apply/applyManually",
-  "blocker": "",
-  "coverLetter": "第 1 步未显示",
   "fields": [
     {
       "label": "Wie haben Sie von uns erfahren?",
@@ -74,5 +65,6 @@
       "type": "text",
       "required": false
     }
-  ]
+  ],
+  "note": "blocked: 浏览器连接中断（仅填第 1 步）"
 }

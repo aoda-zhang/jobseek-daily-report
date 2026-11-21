@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4492108972",
-  "company": "Sandbox Interactive",
-  "title": "Software Developer (m/f/d)",
-  "source": "LinkedIn",
-  "status": "submitted",
-  "ats": "Teamtailor",
-  "applyUrl": "https://sandboxinteractive.teamtailor.com/jobs/8759334-software-developer-m-f-d",
-  "blocker": "",
-  "coverLetter": "有字段",
   "fields": [
     {
       "label": "Notice period / possible start date",
@@ -104,5 +95,6 @@
       "type": "checkbox",
       "required": false
     }
-  ]
+  ],
+  "note": "apply DONE"
 }

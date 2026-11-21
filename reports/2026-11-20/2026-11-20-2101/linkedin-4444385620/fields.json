@@ -1,13 +1,4 @@
 {
-  "jobId": "linkedin-4444385620",
-  "company": "EMIL Group",
-  "title": "Senior/Leading Software Engineer (f/m/d/x)",
-  "source": "LinkedIn",
-  "status": "blocked",
-  "ats": "Personio",
-  "applyUrl": "https://emil-group-gmbh.jobs.personio.de/job/2571928/apply?language=en",
-  "blocker": "Cloudflare Turnstile 安全校验拒绝访问（间隔重试被拦截）",
-  "coverLetter": "选填",
   "fields": [
     {
       "label": "First / Last",
@@ -54,5 +45,6 @@
       "type": "file",
       "required": false
     }
-  ]
+  ],
+  "note": "blocked: Cloudflare Turnstile 安全校验拦截"
 }
