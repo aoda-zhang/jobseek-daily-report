@@ -1,0 +1,73 @@
+{
+  "jobId": "linkedin-4492485891",
+  "company": "Almedia",
+  "title": "AI Full Stack Engineer",
+  "source": "LinkedIn",
+  "status": "inspected",
+  "ats": "Ashby",
+  "applyUrl": "https://jobs.ashbyhq.com/almedia/13c7df64-04e1-4f15-97a5-74cd14fc9ea7/application",
+  "blocker": "",
+  "coverLetter": "未显示",
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Resume",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "Location",
+      "type": "combobox",
+      "required": true
+    },
+    {
+      "label": "Linkedin Profile",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Annual gross salary expectations (EUR)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Visa sponsorship",
+      "type": "radio",
+      "required": true
+    },
+    {
+      "label": "Berlin office every weekday?",
+      "type": "Yes/No",
+      "required": true
+    },
+    {
+      "label": "Node.js/Python API for production",
+      "type": "textarea",
+      "required": true
+    },
+    {
+      "label": "AI-powered tool example",
+      "type": "textarea",
+      "required": true
+    },
+    {
+      "label": "How did you hear about us?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Data retention consent",
+      "type": "checkbox",
+      "required": false
+    }
+  ]
+}

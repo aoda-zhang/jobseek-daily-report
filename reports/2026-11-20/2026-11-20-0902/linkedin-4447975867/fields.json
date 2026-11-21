@@ -1,0 +1,78 @@
+{
+  "jobId": "linkedin-4447975867",
+  "company": "TeleClinic",
+  "title": "Fullstack Engineer (m/f/d)",
+  "source": "LinkedIn",
+  "status": "inspected",
+  "ats": "Workday",
+  "applyUrl": "https://zrg.wd3.myworkdayjobs.com/de-DE/teleclinic-jobs/job/M%C3%BCnchen/Fullstack-Engineer--m-f-d-_JR04584/apply/applyManually",
+  "blocker": "",
+  "coverLetter": "第 1 步未显示",
+  "fields": [
+    {
+      "label": "Wie haben Sie von uns erfahren?",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Land",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Familienname - Chinesisch",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Vorname - Chinesisch",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Vorname - Westliche Schriftzeichen",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Familienname - Westliche Schriftzeichen",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Adresszeile 1",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Bezirk",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "E-Mail",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Art des Telefongeräts",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Ländervorwahl",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Telefonnummer",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "Durchwahl",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "jobId": "linkedin-4492108972",
+  "company": "Sandbox Interactive",
+  "title": "Software Developer (m/f/d)",
+  "source": "LinkedIn",
+  "status": "submitted",
+  "ats": "Teamtailor",
+  "applyUrl": "https://sandboxinteractive.teamtailor.com/jobs/8759334-software-developer-m-f-d",
+  "blocker": "",
+  "coverLetter": "有字段",
+  "fields": [
+    {
+      "label": "Notice period / possible start date",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Where do you reside today?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Eligible to work in Germany?",
+      "type": "Yes/No",
+      "required": true
+    },
+    {
+      "label": "Willing to relocate to Berlin?",
+      "type": "Yes/No",
+      "required": true
+    },
+    {
+      "label": "Gross salary expectations",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Referred by someone at Sandbox?",
+      "type": "Yes/No",
+      "required": true
+    },
+    {
+      "label": "Why interested in Sandbox / Albion Online?",
+      "type": "textarea",
+      "required": true
+    },
+    {
+      "label": "Years of professional software development",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Years of web UI development",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Frontend technologies familiar with",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Years with Java and Spring Boot",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "English communication skills",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "First name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Last name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Phone",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "Upload resume",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "Cover letter",
+      "type": "file",
+      "required": false
+    },
+    {
+      "label": "Privacy / talent-pool consent",
+      "type": "checkbox",
+      "required": false
+    }
+  ]
+}

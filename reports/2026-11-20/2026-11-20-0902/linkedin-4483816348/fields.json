@@ -1,0 +1,63 @@
+{
+  "jobId": "linkedin-4483816348",
+  "company": "Air Apps",
+  "title": "React Engineer",
+  "source": "LinkedIn",
+  "status": "inspected",
+  "ats": "Ashby",
+  "applyUrl": "https://jobs.ashbyhq.com/airapps/64b2a35f-6800-4d9e-9fff-9cd5ad03b261/application",
+  "blocker": "",
+  "coverLetter": "未显示",
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Phone number",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "Resume",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "LinkedIn",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Website or portfolio",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Location",
+      "type": "combobox",
+      "required": true
+    },
+    {
+      "label": "When can you start a new role",
+      "type": "date",
+      "required": true
+    },
+    {
+      "label": "Willing to work from required location?",
+      "type": "Yes/No",
+      "required": true
+    },
+    {
+      "label": "Additional information",
+      "type": "textarea",
+      "required": false
+    }
+  ]
+}

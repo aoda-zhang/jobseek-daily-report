@@ -1,0 +1,68 @@
+{
+  "jobId": "linkedin-4492188584",
+  "company": "ABOUT YOU",
+  "title": "Senior Frontend Engineer - Checkout (all genders)",
+  "source": "LinkedIn",
+  "status": "blocked",
+  "ats": "SmartRecruiters",
+  "applyUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/ABOUTYOUGmbH/publication/1077bbe6-f70e-424f-9dac-de590fd9435c",
+  "blocker": "必填 City 不接受配置值 Chengdu, China",
+  "coverLetter": "未提及",
+  "fields": [
+    {
+      "label": "First name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Last name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Confirm your email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "City",
+      "type": "combobox",
+      "required": true
+    },
+    {
+      "label": "Country code",
+      "type": "combobox",
+      "required": true
+    },
+    {
+      "label": "Phone number",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "LinkedIn",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Website",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Resume",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "Message to the Hiring Team",
+      "type": "textarea",
+      "required": false
+    }
+  ]
+}

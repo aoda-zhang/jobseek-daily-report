@@ -1,0 +1,83 @@
+{
+  "jobId": "linkedin-4440528243",
+  "company": "Staffbase",
+  "title": "Staff Engineer - Fullstack - Actions",
+  "source": "LinkedIn",
+  "status": "submitted",
+  "ats": "Greenhouse",
+  "applyUrl": "https://job-boards.greenhouse.io/staffbase/jobs/8632485002",
+  "blocker": "",
+  "coverLetter": "选填",
+  "fields": [
+    {
+      "label": "First Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Last Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Phone",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "Location (City)",
+      "type": "combobox",
+      "required": true
+    },
+    {
+      "label": "Resume/CV",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "Cover Letter",
+      "type": "file",
+      "required": false
+    },
+    {
+      "label": "Staffbase office",
+      "type": "checkbox",
+      "required": true
+    },
+    {
+      "label": "Willing to relocate",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Work permit status in Germany",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Target base salary range",
+      "type": "select",
+      "required": false
+    },
+    {
+      "label": "LinkedIn profile URL",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Candidate Privacy Notice",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Conflicts of interest",
+      "type": "textarea",
+      "required": false
+    }
+  ]
+}

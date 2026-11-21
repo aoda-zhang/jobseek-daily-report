@@ -1,0 +1,63 @@
+{
+  "jobId": "linkedin-4492476141",
+  "company": "Kombo",
+  "title": "Product Engineer (Full Stack)",
+  "source": "LinkedIn",
+  "status": "inspected",
+  "ats": "Ashby（kombo.dev 跳转）",
+  "applyUrl": "https://jobs.ashbyhq.com/Kombo/ee1b90f2-45c6-44db-acbb-edc099a8968b/application",
+  "blocker": "",
+  "coverLetter": "未显示",
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Resume",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "Linkedin profile",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Right to work in Berlin?",
+      "type": "Yes/No",
+      "required": true
+    },
+    {
+      "label": "Project you could present?",
+      "type": "textarea",
+      "required": true
+    },
+    {
+      "label": "Come into Berlin office?",
+      "type": "Yes/No",
+      "required": true
+    },
+    {
+      "label": "Most important in next role",
+      "type": "textarea",
+      "required": false
+    },
+    {
+      "label": "Salary expectations",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Anything else",
+      "type": "textarea",
+      "required": false
+    }
+  ]
+}

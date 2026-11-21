@@ -1,0 +1,78 @@
+{
+  "jobId": "linkedin-4483028585",
+  "company": "NiCE",
+  "title": "Senior AI Software Engineer",
+  "source": "LinkedIn",
+  "status": "inspected",
+  "ats": "Greenhouse",
+  "applyUrl": "https://job-boards.eu.greenhouse.io/nice/jobs/4940747101",
+  "blocker": "必填问题「是否有亲属就职于 NICE」「是否曾就职于 NICE」无配置值",
+  "coverLetter": "未显示",
+  "fields": [
+    {
+      "label": "First Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Last Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Country",
+      "type": "combobox",
+      "required": true
+    },
+    {
+      "label": "Phone",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "Resume/CV",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "LinkedIn Profile",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "是否有亲属就职于 NICE",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "是否曾就职于 NICE",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "是否需要签证担保",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "是否居住于德国",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "是否有 4 年以上全栈经验",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "三项最重要的雇主因素",
+      "type": "checkbox",
+      "required": true
+    }
+  ]
+}

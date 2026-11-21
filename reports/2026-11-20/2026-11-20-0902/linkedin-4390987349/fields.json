@@ -1,0 +1,78 @@
+{
+  "jobId": "linkedin-4390987349",
+  "company": "thinkcell",
+  "title": "(Senior) Full Stack Developer - Web (f/m/d)",
+  "source": "LinkedIn",
+  "status": "submitted",
+  "ats": "Greenhouse",
+  "applyUrl": "https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4705307101",
+  "blocker": "",
+  "coverLetter": "未显示",
+  "fields": [
+    {
+      "label": "First Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Last Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Country",
+      "type": "combobox",
+      "required": true
+    },
+    {
+      "label": "Phone",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "Resume/CV",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "LinkedIn Profile",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Website",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Desired salary",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Earliest possible start date",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "How did you hear about us?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Consent to interview recording (Metaview)",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Open to relocate to Berlin?",
+      "type": "select",
+      "required": true
+    }
+  ]
+}

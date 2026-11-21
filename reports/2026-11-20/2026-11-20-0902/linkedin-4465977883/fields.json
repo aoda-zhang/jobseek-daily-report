@@ -1,0 +1,78 @@
+{
+  "jobId": "linkedin-4465977883",
+  "company": "Zalando",
+  "title": "Software Engineer (Kotlin) - Transport Planning Optimization (all genders)",
+  "source": "LinkedIn",
+  "status": "submitted",
+  "ats": "Zalando Careers",
+  "applyUrl": "https://jobs.zalando.com/en/jobs/2723609?gh_src=2104be071",
+  "blocker": "",
+  "coverLetter": "选填",
+  "fields": [
+    {
+      "label": "First Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Last Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "label": "Country Code",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Phone Number",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "label": "Résumé",
+      "type": "file",
+      "required": true
+    },
+    {
+      "label": "LinkedIn Profile",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "How did you hear about this job?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "label": "Earliest possible starting date",
+      "type": "date",
+      "required": true
+    },
+    {
+      "label": "Salary expectations",
+      "type": "number",
+      "required": true
+    },
+    {
+      "label": "Are you employed by any Zalando entities?",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "I identify as",
+      "type": "select",
+      "required": true
+    },
+    {
+      "label": "Sensitive data consent",
+      "type": "checkbox",
+      "required": false
+    }
+  ]
+}
