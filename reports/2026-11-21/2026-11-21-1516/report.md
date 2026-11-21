@@ -2,7 +2,7 @@
 
 - 运行编号：`2026-11-21-1516`
 - 开始时间：2026-11-21 15:16（Asia/Shanghai）
-- 结束时间：2026-11-21 16:26
+- 结束时间：2026-11-21 16:29
 - 本轮来源：LinkedIn（Indeed 未执行：`schedules.indeedJobSearch` 仅周五 15:00 触发，今天为周六）
 - 搜索范围：德国全境（未限定城市）
 - 搜索词（按配置顺序）：JavaScript Developer · Full-Stack Developer
@@ -23,7 +23,7 @@
 | 其中 Easy Apply / No Easy Apply | 2 / 7 | — | 2 / 7 |
 | 需要人工复核 | 2 | — | 2 |
 | 外部申请已提交 | 2 | — | 2 |
-| Feed 来源职位 | 0 | — | 0 |
+| Feed 来源职位 | 1 | — | 1 |
 
 ## LinkedIn 职位
 
@@ -50,6 +50,12 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Polarise | JD 英文；德语仅加分；已提交 [applied 11-21] | 已提交 | [打开](https://www.linkedin.com/jobs/view/4492785826/) | 51-200 | 主权 AI 云平台 | Senior Software Engineer (m/f/d) | Düsseldorf | Remote | 22 小时前 | React, TypeScript | 否 | 不清楚 | LinkedIn |
 | 2 | Planet | JD 英文；卫星影像平台；已提交 [applied 11-21] | 已提交 | [打开](https://www.linkedin.com/jobs/view/4488007729/) | 1001-5000 | 卫星影像与地理空间数据平台 | Software Engineer | Berlin | Hybrid | 重新发布 17 小时前 | React, TypeScript, CSS, Express, Redux | 否 | 不清楚 | LinkedIn |
+
+## Feed 来源职位
+
+| # | 公司 | 备注 | 链接 | 职位 | 地点 | 工作模式 | 发布时间 | 匹配关键词 | 来源 |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | AeroVect | 来自搜索；聚合账号 RemoteYeah 代发；ML/C++ 栈 | [打开](https://lnkd.in/gF6gki4v) | Senior Software Engineer, Behavior Planning | Remote — 含 Germany | Remote | 9 小时前 | 无匹配 | LinkedIn Search |
 
 ## 需要人工复核
 
