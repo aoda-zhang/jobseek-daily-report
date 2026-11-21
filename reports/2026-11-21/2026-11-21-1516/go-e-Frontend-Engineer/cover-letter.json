@@ -10,5 +10,7 @@
   "team_location": "Berlin",
   "company_city": "Berlin, Germany",
   "salutation": "Dear Hiring Manager,",
-  "manulife_focus": "fullstack"
+  "manulife_focus": "fullstack",
+  "company_fact": "The Portal you are building serves fleet managers and technicians.",
+  "jd_match": "The role's React and TypeScript work on the Portal, including state management and accessible components, matches the interfaces I build and maintain every day."
 }

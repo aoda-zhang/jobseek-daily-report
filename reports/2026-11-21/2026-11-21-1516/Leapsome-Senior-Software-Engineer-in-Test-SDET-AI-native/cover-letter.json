@@ -10,5 +10,7 @@
   "team_location": "Berlin",
   "company_city": "Berlin, Germany",
   "salutation": "Dear Hiring Manager,",
-  "manulife_focus": "ai"
+  "manulife_focus": "ai",
+  "company_fact": "Leapsome builds most of its code with AI agents and runs QA as a small senior team inside Product & Engineering.",
+  "jd_match": "That is close to my current work, where AI agents and skills are part of the delivery pipeline and quality gates decide what ships."
 }

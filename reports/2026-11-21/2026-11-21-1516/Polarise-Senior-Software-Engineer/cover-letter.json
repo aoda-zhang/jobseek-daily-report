@@ -10,5 +10,7 @@
   "team_location": "Düsseldorf",
   "company_city": "Düsseldorf, Germany",
   "salutation": "Dear Hiring Manager,",
-  "manulife_focus": "ai"
+  "manulife_focus": "ai",
+  "company_fact": "Polarise runs its Sovereign AI Cloud on Python and FastAPI, including an OpenAI-compatible LLM inference gateway.",
+  "jd_match": "My AI-assisted delivery work and TypeScript/React background fit the platform services and internal tooling around that core, and I would ramp up on the Python services quickly."
 }

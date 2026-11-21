@@ -10,5 +10,7 @@
   "team_location": "Berlin",
   "company_city": "Berlin, Germany",
   "salutation": "Dear Hiring Manager,",
-  "manulife_focus": "fullstack"
+  "manulife_focus": "fullstack",
+  "company_fact": "Riverty enables flexible payments across industries with more than 4,000 people in 30 hybrid workspaces.",
+  "jd_match": "The Angular frontend for client onboarding matches my frontend work with TypeScript and component-based interfaces, and I am used to working closely with design and backend colleagues."
 }
