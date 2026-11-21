@@ -1,7 +1,7 @@
 {
   "company": "Polarise",
   "role": "Senior Software Engineer (m/f/d)",
-  "backend_scope": "core services of the sovereign AI cloud",
+  "backend_scope": "core platform services",
   "product": "sovereign AI cloud",
   "tech_points": "TypeScript and React",
   "non_tech_1": "ownership",
@@ -9,5 +9,6 @@
   "jd_quote": "you develop and operate core services of our Sovereign AI Cloud",
   "team_location": "Düsseldorf",
   "company_city": "Düsseldorf, Germany",
-  "salutation": "Dear Hiring Manager,"
+  "salutation": "Dear Hiring Manager,",
+  "manulife_focus": "ai"
 }
